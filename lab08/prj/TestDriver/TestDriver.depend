@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652207580 source:c:\users\shche\documents\cntu\labs\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<clocale>
+	"ModulesShcherbakov.h"
+
+1652203218 c:\users\shche\documents\cntu\labs\lab08\prj\modulesshcherbakov\modulesshcherbakov.h
+	<cmath>
+
