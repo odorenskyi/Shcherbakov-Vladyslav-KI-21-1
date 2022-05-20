@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652884389 source:c:\users\shche\documents\cntu\labs\lab09\prj\shcherbakov_task\main.cpp
+	<iostream>
+	<conio.h>
+	"ModulesShcherbakov.h"
+
+1652881305 c:\users\shche\documents\cntu\labs\lab08\prj\modulesshcherbakov\modulesshcherbakov.h
+	<cmath>
+
