@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1652881273 source:c:\users\shche\documents\cntu\labs\lab08\prj\modulesshcherbakov\main.cpp
+	"ModulesShcherbakov.h"
+	<iostream>
+	<cmath>
+	<math.h>
+	<cstdio>
+	<windows.h>
+	<bitset>
+
+1652881305 c:\users\shche\documents\cntu\labs\lab08\prj\modulesshcherbakov\modulesshcherbakov.h
+	<cmath>
+
+1655220418 source:c:\users\shche\documents\cntu\bmtp\lab08\prj\modulesshcherbakov\main.cpp
+	"ModulesShcherbakov.h"
+	<iostream>
+	<cmath>
+	<math.h>
+	<cstdio>
+	<windows.h>
+	<bitset>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<cstring>
+	<string>
+
+1655220418 c:\users\shche\documents\cntu\bmtp\lab08\prj\modulesshcherbakov\modulesshcherbakov.h
+	<cstring>
+	<cmath>
+	<string>
+

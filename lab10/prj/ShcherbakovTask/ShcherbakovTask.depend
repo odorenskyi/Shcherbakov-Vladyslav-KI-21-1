@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1655220371 source:c:\users\shche\documents\cntu\bmtp\lab10\prj\shcherbakovtask\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ModulesShcherbakov.h>
+	<windows.h>
+	<locale.h>
+	<ctime>
+
+1655220418 c:\users\shche\documents\cntu\bmtp\lab08\prj\modulesshcherbakov\modulesshcherbakov.h
+	<cstring>
+	<cmath>
+	<string>
+
